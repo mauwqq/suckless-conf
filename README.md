@@ -28,8 +28,25 @@ These are the required dependencies for all the tools to work.
 ```
 pacman -S gcc git make patch base-devel freetype2 libx11 libxft libxinerama fontconfig coreutils glibc libxext ncurses terminus-font slock xautolock picom
 ```
+## Patches
 
-### Color palette
+Current patches:
+- [case insensitive](https://tools.suckless.org/dmenu/patches/case-insensitive/)
+- [numbers](https://tools.suckless.org/dmenu/patches/numbers/)
+- [autostart](https://dwm.suckless.org/patches/autostart/)
+- [gaps](https://dwm.suckless.org/patches/gaps/)
+- [awesomebarwithhover](https://dwm.suckless.org/patches/awesomebar/)
+- [restartsig](https://dwm.suckless.org/patches/restartsig/)
+- [exitmenu](https://dwm.suckless.org/patches/exitmenu/)
+- [systray](https://dwm.suckless.org/patches/systray/)
+- [fixborders](https://dwm.suckless.org/patches/alpha/)
+- [anysize](https://st.suckless.org/patches/anysize/)
+- [scrollback-ringbuffer](https://st.suckless.org/patches/scrollback/)
+- [blinking-cursor](https://st.suckless.org/patches/blinking_cursor/)
+- [w3m](https://st.suckless.org/patches/w3m/)
+
+
+## Color palette
 
 `#444444`, `#bbbbbb`, `#222222`, `#eeeeee`, `#7a49a5`, `#49A57A`
 
