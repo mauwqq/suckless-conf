@@ -20,10 +20,13 @@ These are the required dependencies for all the tools to work.
 - libxext
 - ncurses
 - terminus
+- slock
+- xautolock
+- picom
 
 ### Arch Linux
 ```
-pacman -S gcc git make patch base-devel freetype2 libx11 libxft libxinerama fontconfig coreutils glibc libxext ncurses terminus-font
+pacman -S gcc git make patch base-devel freetype2 libx11 libxft libxinerama fontconfig coreutils glibc libxext ncurses terminus-font slock xautolock picom
 ```
 
 ### Color palette
