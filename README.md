@@ -44,7 +44,7 @@ Current patches:
 - [scrollback-ringbuffer](https://st.suckless.org/patches/scrollback/)
 - [blinking-cursor](https://st.suckless.org/patches/blinking_cursor/)
 - [w3m](https://st.suckless.org/patches/w3m/)
-
+- [always-center](https://dwm.suckless.org/patches/alwayscenter/)
 
 ## Color palette
 
