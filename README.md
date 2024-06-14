@@ -3,7 +3,7 @@
 Welcome to my GitHub repository for my [Suckless](https://suckless.org/) configuration files, optimized for my ThinkPad laptop which I use exclusively for college. This repository contains custom configurations for Suckless software like dwm, st, and dmenu, tailored to enhance productivity and efficiency for me. Feel free to explore, use, and modify these configurations to suit your needs.
 
 ## Dependencies
-dfsfd
+
 These are the required dependencies for all the tools to work.
 - gcc
 - git
